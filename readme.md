@@ -1,6 +1,7 @@
 ## BSA 17 JS. Lecture 2 - JS
 
 ![fight](/assets/fight.png)
+
 #### Створити класс “Fighter”. Клас повиненин приймати значення name, power і health. Також клас повинен мати методи “setDamage” та “hit”.
 
 Метод “setDamage” приймає значення “damage” і наносить урон змінюючи значення health (health = health - damage), і виводить в консоль строку “ health: ”.
